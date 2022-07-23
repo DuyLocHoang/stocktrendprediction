@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+Data/Datasets/Stocks
+Data/Datasets/analyst_ratings_processed.csv
+Utils/__pycache__
+weights/model30000

@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+pyyaml
+fastapi
+transformers
+torch
+uvicorn
+nltk
