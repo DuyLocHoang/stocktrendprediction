@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1-0PntxoKlI4c5f9q5ZPsEyaoyT_sVwoW/view?usp=shari
 ## Requirement
 - Python 3.8
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 
